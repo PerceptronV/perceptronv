@@ -6,4 +6,4 @@
 - ⛺ ... and I enjoy the great outdoors!
 - 🤝 Feel free to reach out about anything!
 
-What wake me up right now: `Bayesian learning`, `neurosymbolic AI`, `functional programming`
+What wakes me up right now: `Bayesian learning`, `neurosymbolic AI`, `functional programming`
