@@ -7,4 +7,4 @@
 - 🤝 Feel free to reach out about anything!
 
 > 💭 Stuff I'm thinking: `Wilson's theorem`, `Bayesian learning`, `neurosymbolic AI` <br/>
-> 📖 Books I'm reading: The Brothers Karamazov (Fyodor Dostoyevsky), 中國通史 (呂思勉)
+> 📖 Books I'm reading: `The Brothers Karamazov (Fyodor Dostoyevsky)`, `中國通史 (呂思勉)`
